@@ -1,0 +1,181 @@
+body{
+    font-family: 'Montsserat'sans-serif;
+    background: black;
+    padding: 20px;
+    width: 844px;
+    height: 596px;
+}
+.background{
+    width: 1000px;
+    height: 829px;
+    flex-direction: row;
+    background:#FFFFFF;
+    display: flex;
+    margin: 40px,40px,40px;
+}
+.sidebar{
+    width: 300px;
+    height: 829px;
+    background: #042f6f;
+   
+}
+.my-photo{
+    width: 210px;
+    height: 190px;
+    
+}
+.sidebar-info-title{
+    color: red;
+    text-align: center;
+}
+.contact-info{
+    color: red;
+    text-align: center;
+}
+.contact-text{
+    color: #FFFFFF;
+    text-align: center;
+       
+}
+.sidebar-info-skill{
+    color: #FFFFFF;
+    text-align: center;
+}
+.my-photo1{
+    width: 4cm;
+    height: 3cm;
+    margin-left: 1cm;
+}
+.my-photo2{
+    width: 4cm;
+    height: 3cm;
+    margin-left: 1cm;
+}
+
+.sidebar-skills-info{
+    color:red;
+    text-align: center;
+}
+.my-info-skills{
+    color:#FFFFFF;
+    text-align: center;
+
+}
+
+.section-right{
+    background-color:  #042f6f;
+
+}   
+.main-info{
+    width: 900px;
+    height: 250px;
+    background-color: whitesmoke;
+    padding: 30px;
+    margin: 10px;
+    font-weight: 400;
+    font-size: 14px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+
+}
+.profession-name{
+    text-align: center;
+    color: #ff0000;
+
+}
+.my-name{
+    text-align: center;
+    color: rgb(6, 25, 6);
+    font-variant: small-caps;
+
+}
+.my-info{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    width: 900px;
+    height: 100px;
+    left: 498px;
+    top: 252px;
+    background-color: whitesmoke;
+    text-align: center;
+    
+}
+.projects-info{
+    background-color: whitesmoke;
+    width: 900px;
+    height: 80px;
+    padding: 30px;
+    margin: 10px;
+    font-weight: 400;
+    font-size: 14px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+}
+.git-info{
+    text-align: center;
+  
+}
+
+.info-project{
+    color:red;
+}
+
+.info-work{
+    background-color: whitesmoke;
+    width: 900px;
+    height: 105px;
+    padding: 30px;
+    margin: 10px;
+    font-weight: 400;
+    font-size: 14px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+
+}
+.work-info{
+    color:red;
+    text-align: center;
+}
+.info-my-work{
+    text-align: center;
+    left: 498px;
+    top: 252px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.info-education{
+    background-color: whitesmoke;
+    width: 900px;
+    height: 87px;
+    padding: 30px;
+    margin: 10px;
+    font-weight: 400;
+    font-size: 14px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+   
+}
+.education-name{
+    color: red;
+    text-align: center;
+}
+.my-photo1{
+    width: 4cm;
+    height: 2cm;
+    text-align: left;
+}
+.my-photo2{
+    width: 4cm;
+    height: 2cm;
+    text-align: right;
+}
+.info-my-education{
+    color:rgb(73, 73, 229);
+    text-align: center;
+}
